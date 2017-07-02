@@ -1,0 +1,12 @@
+#include "Timer.h"
+
+
+Timer::Timer(ITask &task, string taskName)
+{
+
+}
+
+
+Timer::~Timer()
+{
+}
